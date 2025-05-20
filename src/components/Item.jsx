@@ -1,6 +1,6 @@
 function Item({ item }) {
   return (
-    <li key={item.id}>
+    <li>
       {/* <input type="checkbox" id={item.id} />
       <label  htmlFor={item.id}></label>
       */}

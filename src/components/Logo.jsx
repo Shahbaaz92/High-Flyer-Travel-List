@@ -1,7 +1,7 @@
 function Logo() {
   return (
     <div>
-      <h1>🏝️ High Flyer Travel List🚵</h1>
+      <h1>🏝️ Travel Check List🚵</h1>
     </div>
   );
 }
