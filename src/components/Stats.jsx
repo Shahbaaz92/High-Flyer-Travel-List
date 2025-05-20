@@ -1,7 +1,7 @@
 function Stats() {
   return (
     <footer className="stats">
-      <h2>Stats</h2>
+      🧜‍♂️You have X items on your list, and you have already packed Y (Y%)
     </footer>
   );
 }
