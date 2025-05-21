@@ -1,7 +1,7 @@
 function Logo() {
   return (
     <div>
-      <h1>🏝️ Travel Check List🚵</h1>
+      <h1>🌎Travel🌍CheckList🌏</h1>
     </div>
   );
 }
