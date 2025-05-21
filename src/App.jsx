@@ -30,6 +30,7 @@ function App() {
         items={items}
         onDeleteItem={handleDeleteItem}
         onToggleItem={handleToggleItem}
+        onClearList={setItems}
       />
       <Stats items={items} />
     </div>
